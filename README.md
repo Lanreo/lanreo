@@ -1,4 +1,9 @@
-## Hi there 👋
+#LanreO
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://lanreo.github.io/assets/lanre-gh-banner.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://lanreo.github.io/assets/lanre-gh-banner-dark.png">
+ <img alt="Y" src="https://lanreo.github.io/assets/lanre-gh-banner.png">
+</picture>
 
 <!--
 **Lanreo/lanreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
