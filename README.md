@@ -1,8 +1,8 @@
 #LanreO
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="assets/lanre-gh-banner.png">
- <source media="(prefers-color-scheme: light)" srcset="https://lanreo.github.io/assets/lanre-gh-banner-dark.png">
- <img alt="Y" src="https://lanreo.github.io/assets/lanre-gh-banner.png">
+ <source media="(prefers-color-scheme: light)" srcset="assets/lanre-gh-banner-dark.png">
+ <img alt="Y" src="assets/lanre-gh-banner.png">
 </picture>
 
 <!--
