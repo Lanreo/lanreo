@@ -2,9 +2,10 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="assets/lanre-gh-banner.png">
  <source media="(prefers-color-scheme: light)" srcset="assets/lanre-gh-banner-dark.png">
- <img alt="Y" src="assets/lanre-gh-banner.png">
+ <img alt="Lanre's Github page" src="assets/lanre-gh-banner.png">
 </picture>
 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
 <!--
 **Lanreo/lanreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
